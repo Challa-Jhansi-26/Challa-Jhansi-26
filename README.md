@@ -1,20 +1,34 @@
-Hello! I'm Challa Jhansi 
+## 👩‍💻 About Me
 
-I’m currently pursuing a Bachelor’s degree in Computer Science and Engineering at Gokaraju Lailavathi Women's Engineering College. As a tech enthusiast, I am deeply passionate about coding and driven by a desire to explore and excel in various facets of technology.
+Hello! I'm **Jhansi Challa**, a dedicated and enthusiastic Computer Science student and aspiring software developer. My core interest lies in building **efficient, scalable, and impactful software solutions** by combining strong programming skills with a deep understanding of system design and user needs.
 
-My academic journey has provided me with a solid foundation in computer science principles, and I am constantly seeking opportunities to apply my knowledge in practical, real-world scenarios. I am proficient in C, Python, Java, and SQL, and I have a medium level of expertise in HTML.
+### 💻 Technical Interests
 
-I am committed to coding excellence and software innovation, always eager to learn new programming languages and software development methodologies.
+- **Software Development**: Experienced in building full-stack applications using technologies like HTML, CSS, JavaScript, React, Python, and Node.js.
+- **Python Programming**: I’ve developed projects ranging from automation tools to games, file organizers, and mini-voice assistants.
+- **Web Development**: Passionate about front-end design, responsive UI/UX, and interactive interfaces.
+- **Data Structures & Algorithms**: Actively strengthening my problem-solving skills to write optimized and clean code.
+- **AI/ML & Data-Driven Applications**: Exploring how AI can be applied to real-world domains such as civic tech, education, and accessibility.
+- **Version Control & Collaboration**: Well-versed in Git, GitHub workflows, and collaborative development.
 
-Feel free to check out my repositories and connect with me!
+### 🚀 What I'm Working On
 
-Skills
-Programming Languages: C, Python, Java                        
+- Improving my **DSA problem-solving skills** with a structured daily routine.
+- Building domain-specific **AI-based project ideas** (e.g., civic reporting, micro-insurance, visual accessibility).
+- Learning **front-end frameworks** and polishing my React & Tailwind CSS skills.
+- Exploring tools like **Canva, Excel, ChatGPT APIs**, and **online code compilers** for enhanced productivity and development experience.
 
-Web Development: HTML
+### 🛠️ Tools & Technologies
 
-Database Management: SQL
+- **Languages**: Python, C++, JavaScript, HTML, CSS
+- **Frameworks & Libraries**: React.js, Tailwind CSS, Flask (basic), Bootstrap
+- **Tools**: Git, GitHub, VS Code, Canva, Excel
+- **Platforms**: GitHub Pages, Netlify, Replit
 
-Let's Connect! LinkedIn : Jhansi Challa
+### 📫 Contact
 
-Thanks for visiting my GitHub profile!
+- **Email**: challajhansi26@gmail.com
+- **LinkedIn**: linkedin.com/in/challajhansi/
+---
+
+Feel free to explore my repositories to see what I'm currently building or experimenting with. Always open to collaboration, contributions, or a quick chat!
